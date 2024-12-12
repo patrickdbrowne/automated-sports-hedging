@@ -1,0 +1,130 @@
+[
+    {
+        "id": "055d244ffe115af57d704f79f3168a61",
+        "sport_key": "soccer_germany_liga3",
+        "sport_title": "3. Liga - Germany",
+        "commence_time": "2024-04-10T17:00:00Z",
+        "home_team": "1. FC Saarbr\u00fccken",
+        "away_team": "SpVgg Unterhaching",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:33Z",
+                        "outcomes": [
+                            {
+                                "name": "1. FC Saarbr\u00fccken",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "SpVgg Unterhaching",
+                                "price": 5.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:33Z",
+                        "outcomes": [
+                            {
+                                "name": "1. FC Saarbr\u00fccken",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "SpVgg Unterhaching",
+                                "price": 4.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:27Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:27Z",
+                        "outcomes": [
+                            {
+                                "name": "1. FC Saarbr\u00fccken",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "SpVgg Unterhaching",
+                                "price": 4.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:35Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:35Z",
+                        "outcomes": [
+                            {
+                                "name": "1. FC Saarbr\u00fccken",
+                                "price": 1.49
+                            },
+                            {
+                                "name": "SpVgg Unterhaching",
+                                "price": 3.85
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 2.72
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:35Z",
+                        "outcomes": [
+                            {
+                                "name": "1. FC Saarbr\u00fccken",
+                                "price": 1.58
+                            },
+                            {
+                                "name": "SpVgg Unterhaching",
+                                "price": 870.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 950.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

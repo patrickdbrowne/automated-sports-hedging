@@ -1,0 +1,205 @@
+[
+    {
+        "id": "c19e8f28a3cbd2fd744a01dd62b748a4",
+        "sport_key": "soccer_poland_ekstraklasa",
+        "sport_title": "Ekstraklasa - Poland",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "Zag\u0142\u0119bie Lubin",
+        "away_team": "G\u00f3rnik Zabrze",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:37:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:37:03Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:49Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:49Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:01Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:37:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:37:01Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.4
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:37:01Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.6
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.38
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:36:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:11Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:36:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:02Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:06Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.16
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

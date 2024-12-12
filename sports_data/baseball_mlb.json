@@ -1,0 +1,3212 @@
+[
+    {
+        "id": "269bd9b61abd0ea54ac37d0e78e4fc46",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-08T21:10:00Z",
+        "home_team": "Cleveland Guardians",
+        "away_team": "Chicago White Sox",
+        "bookmakers": [
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago White Sox",
+                                "price": 2.85
+                            },
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": 1.44
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago White Sox",
+                                "price": 2.85
+                            },
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": 1.43
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago White Sox",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": 1.43
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago White Sox",
+                                "price": 3.35
+                            },
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": 1.47
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago White Sox",
+                                "price": 2.86
+                            },
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": 1.43
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago White Sox",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": 1.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago White Sox",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": 1.45
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b426f150a2bf13712a4bb0fdf9ca1f25",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-08T22:05:00Z",
+        "home_team": "New York Yankees",
+        "away_team": "Miami Marlins",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.22
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.67
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.64
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.35
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.63
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.64
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.64
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.24
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.63
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.24
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.64
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.34
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.72
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Marlins",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.75
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "82d7fc73685b3efb7688b894c48bdd78",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-08T22:40:00Z",
+        "home_team": "Cincinnati Reds",
+        "away_team": "Milwaukee Brewers",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.91
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.88
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.92
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.92
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.88
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.88
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 1.95
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Reds",
+                                "price": 2.06
+                            },
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": 2.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9e7ab70be858b0fb1f713c4d4679158b",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-08T22:40:00Z",
+        "home_team": "Pittsburgh Pirates",
+        "away_team": "Detroit Tigers",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.03
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.79
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.05
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.79
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.05
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.78
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.05
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.78
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.05
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.02
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.05
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.05
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.05
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.81
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.04
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.12
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.85
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 2.18
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9ba20b06d3d326b4397373d58269bf1f",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-08T23:07:00Z",
+        "home_team": "Toronto Blue Jays",
+        "away_team": "Seattle Mariners",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 1.99
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.82
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 1.99
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.82
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.82
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.82
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.82
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 1.98
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.83
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 2.02
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.83
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 1.98
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.81
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 2.04
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.89
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Mariners",
+                                "price": 2.14
+                            },
+                            {
+                                "name": "Toronto Blue Jays",
+                                "price": 1.97
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "33840edd610451b693e76f7186e6a086",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-08T23:20:00Z",
+        "home_team": "Atlanta Braves",
+        "away_team": "New York Mets",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.81
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.43
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.45
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.45
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.82
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.45
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.43
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.41
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 2.87
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.48
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 3.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Braves",
+                                "price": 1.5
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 3.1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c47090b313f914cbd2518a9cfedd478b",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-08T23:40:00Z",
+        "home_team": "Minnesota Twins",
+        "away_team": "Los Angeles Dodgers",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.72
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.13
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.68
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.68
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.74
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.72
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.12
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.71
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.71
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.12
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.75
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.79
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.2
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Dodgers",
+                                "price": 1.84
+                            },
+                            {
+                                "name": "Minnesota Twins",
+                                "price": 2.28
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "edbf77a61511a18abd0f24a13c82ee44",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-08T23:45:00Z",
+        "home_team": "St. Louis Cardinals",
+        "away_team": "Philadelphia Phillies",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.93
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.88
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.94
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.87
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.94
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.87
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.87
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.93
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.93
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.91
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.88
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 1.99
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 1.97
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Phillies",
+                                "price": 2.04
+                            },
+                            {
+                                "name": "St. Louis Cardinals",
+                                "price": 2.02
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6405754c8dc94d07532f8c89275efca8",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-09T00:05:00Z",
+        "home_team": "Texas Rangers",
+        "away_team": "Houston Astros",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.16
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.72
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.68
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.68
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.71
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.71
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.11
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.72
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.12
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.12
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.75
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.78
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.22
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 1.82
+                            },
+                            {
+                                "name": "Texas Rangers",
+                                "price": 2.3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d5a79b3f863d1b41ca5b9996daade0b0",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-09T00:40:00Z",
+        "home_team": "Colorado Rockies",
+        "away_team": "Arizona Diamondbacks",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.54
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.48
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.54
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.55
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.55
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.56
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.51
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.54
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.55
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.55
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.52
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.6
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.62
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Diamondbacks",
+                                "price": 1.62
+                            },
+                            {
+                                "name": "Colorado Rockies",
+                                "price": 2.68
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c163b5f5f4579c8293266956ccf3d9bd",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-09T01:38:00Z",
+        "home_team": "Los Angeles Angels",
+        "away_team": "Tampa Bay Rays",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.71
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.67
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.17
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.73
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.23
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.64
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.67
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.32
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.7
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Angels",
+                                "price": 2.44
+                            },
+                            {
+                                "name": "Tampa Bay Rays",
+                                "price": 1.75
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7d584f5a2dea3c913e37536fe1fdcab5",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-09T01:40:00Z",
+        "home_team": "San Diego Padres",
+        "away_team": "Chicago Cubs",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.74
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.73
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.72
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.72
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.12
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.76
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.08
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.73
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.73
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.18
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.78
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Cubs",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "San Diego Padres",
+                                "price": 1.85
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "39fb014f345a723482084e5aca2bc5d4",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-04-09T01:45:00Z",
+        "home_team": "San Francisco Giants",
+        "away_team": "Washington Nationals",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:04Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 2.96
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:34:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:34Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.4
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 2.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:34:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:39Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 2.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 2.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 2.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.38
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:29Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.4
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:12Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.39
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 2.92
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:25Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 3.15
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 1.47
+                            },
+                            {
+                                "name": "Washington Nationals",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

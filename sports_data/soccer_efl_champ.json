@@ -1,0 +1,3638 @@
+[
+    {
+        "id": "e72ef5ac298ea229af4bb48ed964b882",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-09T18:45:00Z",
+        "home_team": "Southampton",
+        "away_team": "Coventry City",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.72
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.1
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.25
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.73
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.73
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 3.75
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.5
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.81
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.3
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.6
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.82
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.74
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.2
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.72
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.71
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Coventry City",
+                                "price": 3.9
+                            },
+                            {
+                                "name": "Southampton",
+                                "price": 1.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.9
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e8492567c9b041f6869aa5fbb7107874",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-09T18:45:00Z",
+        "home_team": "Preston North End",
+        "away_team": "Huddersfield Town",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.35
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.55
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.42
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.24
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.3
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.3
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Huddersfield Town",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Preston North End",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "26e8a0b903e8d162bf0de7ef3befd680",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-09T18:45:00Z",
+        "home_team": "Millwall",
+        "away_team": "Leicester City",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.65
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 5.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.68
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 4.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 5.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.65
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 4.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.75
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 5.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.76
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 5.6
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 4.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 4.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 4.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.68
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 4.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.63
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 5.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leicester City",
+                                "price": 1.68
+                            },
+                            {
+                                "name": "Millwall",
+                                "price": 4.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bcfe73ecbc5bf07ef7994106303feb08",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-09T18:45:00Z",
+        "home_team": "Sheffield Wednesday",
+        "away_team": "Norwich City",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.35
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.28
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.38
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 3.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.55
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.42
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 3.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.28
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 2.96
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.35
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.35
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Norwich City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "00710d487c600aec01d6616baa89a098",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-09T18:45:00Z",
+        "home_team": "Plymouth Argyle",
+        "away_team": "Queens Park Rangers",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.35
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.44
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.4
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.46
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.05
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Plymouth Argyle",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Queens Park Rangers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8e5eacd4895b586b2af81cfac8616024",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-09T19:00:00Z",
+        "home_team": "Leeds United",
+        "away_team": "Sunderland",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.25
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 9.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 9.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 9.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.32
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 8.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 9.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.32
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 8.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.34
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 10.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 6.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.35
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 12.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 6.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 9.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 9.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.26
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 9.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Leeds United",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Sunderland",
+                                "price": 9.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "639ed0ad3fc9f2b1f8c3bf1b6b09693a",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-10T18:45:00Z",
+        "home_team": "Birmingham City",
+        "away_team": "Cardiff City",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 4.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 3.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.88
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 3.85
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 3.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 3.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 4.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.65
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.96
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 4.7
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.87
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 4.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.86
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 3.85
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.87
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 3.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Birmingham City",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Cardiff City",
+                                "price": 3.95
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6b0c727ceed6401f7e45eb14cf2f730a",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-10T18:45:00Z",
+        "home_team": "Bristol City",
+        "away_team": "Blackburn Rovers",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 2.95
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.45
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.45
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.62
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.64
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 2.95
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.45
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 2.78
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.42
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Blackburn Rovers",
+                                "price": 2.85
+                            },
+                            {
+                                "name": "Bristol City",
+                                "price": 2.45
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f5917bbc8594b8887c4ab4d804c12fa0",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-10T18:45:00Z",
+        "home_team": "Hull City",
+        "away_team": "Middlesbrough",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.35
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 2.95
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 2.95
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.48
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.35
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 2.85
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.28
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Hull City",
+                                "price": 2.33
+                            },
+                            {
+                                "name": "Middlesbrough",
+                                "price": 2.78
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.45
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a2c4a5f5f791af2f354e87eafb1e2dd8",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-10T18:45:00Z",
+        "home_team": "Ipswich Town",
+        "away_team": "Watford",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 6.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 7.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 7.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.43
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 6.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.5
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 7.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.9
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.51
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 7.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.45
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 6.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Ipswich Town",
+                                "price": 1.41
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 6.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.6
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4c10dc89bce984e3083ffebb8d5a72d9",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-10T19:00:00Z",
+        "home_team": "West Bromwich",
+        "away_team": "Rotherham United",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 14.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.22
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 12.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 11.5
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.27
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 11.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 10.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 10.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 15.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 6.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 17.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 6.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 10.5
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 10.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.26
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 11.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Rotherham United",
+                                "price": 11.0
+                            },
+                            {
+                                "name": "West Bromwich",
+                                "price": 1.24
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8f8973595fbc7d1d88223738f1275d00",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-04-10T19:00:00Z",
+        "home_team": "Swansea City",
+        "away_team": "Stoke City",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 2.95
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.52
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 3.25
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.56
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.45
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 2.88
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Stoke City",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 2.98
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

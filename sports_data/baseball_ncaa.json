@@ -1,0 +1,29 @@
+[
+    {
+        "id": "5b880496ddce8421df3972c4f94fb607",
+        "sport_key": "baseball_ncaa",
+        "sport_title": "NCAA Baseball",
+        "commence_time": "2024-04-07T20:00:00Z",
+        "home_team": "UC Riverside Highlanders",
+        "away_team": "Cal Poly Mustangs",
+        "bookmakers": []
+    },
+    {
+        "id": "be1dc7685b7a530b41243c1f5f79eebb",
+        "sport_key": "baseball_ncaa",
+        "sport_title": "NCAA Baseball",
+        "commence_time": "2024-04-07T20:00:00Z",
+        "home_team": "Portland Pilots",
+        "away_team": "Pacific Tigers",
+        "bookmakers": []
+    },
+    {
+        "id": "9b4fdf57d3221aa80b814c7457b880a8",
+        "sport_key": "baseball_ncaa",
+        "sport_title": "NCAA Baseball",
+        "commence_time": "2024-04-08T01:00:00Z",
+        "home_team": "Utah Utes",
+        "away_team": "CSU Northridge Matadors",
+        "bookmakers": []
+    }
+]

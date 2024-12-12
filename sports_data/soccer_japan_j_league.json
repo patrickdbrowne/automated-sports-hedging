@@ -1,0 +1,155 @@
+[
+    {
+        "id": "5438982e00d492c1f618e4c1ba13edbc",
+        "sport_key": "soccer_japan_j_league",
+        "sport_title": "J League",
+        "commence_time": "2024-04-10T10:00:00Z",
+        "home_team": "Yokohama F Marinos",
+        "away_team": "Gamba Osaka",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:36:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Gamba Osaka",
+                                "price": 3.9
+                            },
+                            {
+                                "name": "Yokohama F Marinos",
+                                "price": 1.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:45Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Gamba Osaka",
+                                "price": 3.7
+                            },
+                            {
+                                "name": "Yokohama F Marinos",
+                                "price": 1.83
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Gamba Osaka",
+                                "price": 3.7
+                            },
+                            {
+                                "name": "Yokohama F Marinos",
+                                "price": 1.82
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:05Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Gamba Osaka",
+                                "price": 3.95
+                            },
+                            {
+                                "name": "Yokohama F Marinos",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.85
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Gamba Osaka",
+                                "price": 4.5
+                            },
+                            {
+                                "name": "Yokohama F Marinos",
+                                "price": 1.95
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:36:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Gamba Osaka",
+                                "price": 3.8
+                            },
+                            {
+                                "name": "Yokohama F Marinos",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

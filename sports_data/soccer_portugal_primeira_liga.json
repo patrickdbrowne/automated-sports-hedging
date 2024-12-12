@@ -1,0 +1,230 @@
+[
+    {
+        "id": "66f638e20b9df017c9f153c2e7385852",
+        "sport_key": "soccer_portugal_primeira_liga",
+        "sport_title": "Primeira Liga - Portugal",
+        "commence_time": "2024-04-08T19:15:00Z",
+        "home_team": "Casa Pia",
+        "away_team": "Estoril",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:21Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Casa Pia",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Estoril",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:36:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Casa Pia",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Estoril",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 2.87
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:36:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Casa Pia",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Estoril",
+                                "price": 2.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:37:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:37:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Casa Pia",
+                                "price": 2.96
+                            },
+                            {
+                                "name": "Estoril",
+                                "price": 2.94
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.05
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:37:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Casa Pia",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Estoril",
+                                "price": 2.98
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:36:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Casa Pia",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Estoril",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:36:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Casa Pia",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Estoril",
+                                "price": 2.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:36:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Casa Pia",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Estoril",
+                                "price": 2.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 2.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Casa Pia",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Estoril",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 2.86
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

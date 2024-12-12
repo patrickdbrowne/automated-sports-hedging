@@ -1,0 +1,255 @@
+[
+    {
+        "id": "e189b4b6bf160b06f691f1d297a9bdea",
+        "sport_key": "soccer_spl",
+        "sport_title": "Premiership - Scotland",
+        "commence_time": "2024-04-10T19:00:00Z",
+        "home_team": "Dundee FC",
+        "away_team": "Rangers",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:36:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 9.5
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:36:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 8.5
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:21Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 8.5
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:36:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 9.5
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:35:21Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 8.5
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:36:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 10.0
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.31
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 6.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:36:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 12.5
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.32
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 6.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:20Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 8.5
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 8.2
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:36:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Dundee FC",
+                                "price": 8.5
+                            },
+                            {
+                                "name": "Rangers",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

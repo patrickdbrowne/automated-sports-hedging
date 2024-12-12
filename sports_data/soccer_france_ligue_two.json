@@ -1,0 +1,255 @@
+[
+    {
+        "id": "0604169f20cf87b9bf186b9288620316",
+        "sport_key": "soccer_france_ligue_two",
+        "sport_title": "Ligue 2 - France",
+        "commence_time": "2024-04-08T18:45:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Troyes",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.4
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 7.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 7.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 6.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:36:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.4
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.47
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 8.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.9
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.48
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 8.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 6.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:36:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Auxerre",
+                                "price": 1.4
+                            },
+                            {
+                                "name": "Troyes",
+                                "price": 6.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

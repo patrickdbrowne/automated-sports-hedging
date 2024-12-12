@@ -1,0 +1,47 @@
+[
+    {
+        "id": "690f1af86d7fedae28068e9a80affbd3",
+        "sport_key": "baseball_kbo",
+        "sport_title": "KBO",
+        "commence_time": "2024-04-09T09:30:00Z",
+        "home_team": "Doosan Bears",
+        "away_team": "Hanwha Eagles",
+        "bookmakers": []
+    },
+    {
+        "id": "9b984d96972c1e3dce640598ee326cf4",
+        "sport_key": "baseball_kbo",
+        "sport_title": "KBO",
+        "commence_time": "2024-04-09T09:30:00Z",
+        "home_team": "NC Dinos",
+        "away_team": "KT Wiz",
+        "bookmakers": []
+    },
+    {
+        "id": "b857af57232007cf77faf545a9080b2b",
+        "sport_key": "baseball_kbo",
+        "sport_title": "KBO",
+        "commence_time": "2024-04-09T09:30:00Z",
+        "home_team": "Kia Tigers",
+        "away_team": "LG Twins",
+        "bookmakers": []
+    },
+    {
+        "id": "8b4fbed0fbb9e521e0fcd7b29b567d7f",
+        "sport_key": "baseball_kbo",
+        "sport_title": "KBO",
+        "commence_time": "2024-04-09T09:30:00Z",
+        "home_team": "SSG Landers",
+        "away_team": "Kiwoom Heroes",
+        "bookmakers": []
+    },
+    {
+        "id": "282bafb077ea56ab711a68518ea600c1",
+        "sport_key": "baseball_kbo",
+        "sport_title": "KBO",
+        "commence_time": "2024-04-09T09:30:00Z",
+        "home_team": "Lotte Giants",
+        "away_team": "Samsung Lions",
+        "bookmakers": []
+    }
+]

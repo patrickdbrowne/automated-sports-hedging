@@ -1,0 +1,173 @@
+[
+    {
+        "id": "858a360d5fb9952a69dfdf73524288aa",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2024-04-09T01:20:39Z",
+        "home_team": "UConn Huskies",
+        "away_team": "Purdue Boilermakers",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Purdue Boilermakers",
+                                "price": 3.41
+                            },
+                            {
+                                "name": "UConn Huskies",
+                                "price": 1.32
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Purdue Boilermakers",
+                                "price": 3.3
+                            },
+                            {
+                                "name": "UConn Huskies",
+                                "price": 1.32
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:36:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Purdue Boilermakers",
+                                "price": 3.35
+                            },
+                            {
+                                "name": "UConn Huskies",
+                                "price": 1.31
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:36:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Purdue Boilermakers",
+                                "price": 3.4
+                            },
+                            {
+                                "name": "UConn Huskies",
+                                "price": 1.33
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Purdue Boilermakers",
+                                "price": 3.45
+                            },
+                            {
+                                "name": "UConn Huskies",
+                                "price": 1.31
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Purdue Boilermakers",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "UConn Huskies",
+                                "price": 1.36
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Purdue Boilermakers",
+                                "price": 3.75
+                            },
+                            {
+                                "name": "UConn Huskies",
+                                "price": 1.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:34:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Purdue Boilermakers",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "UConn Huskies",
+                                "price": 1.3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

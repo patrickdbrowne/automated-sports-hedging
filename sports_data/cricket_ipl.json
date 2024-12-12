@@ -1,0 +1,683 @@
+[
+    {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:17Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.8
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 2.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.84
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.96
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:36:05Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.93
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 2.06
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:36:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.94
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 2.08
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.92
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.84
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.98
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.94
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.94
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.84
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.83
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.98
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6cd9dc777f59fb36aa377f08c2341588",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-09T14:00:00Z",
+        "home_team": "Punjab Kings",
+        "away_team": "Sunrisers Hyderabad",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:17Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 1.94
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 1.98
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.82
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:36:05Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 2.14
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.86
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:36:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 2.18
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.87
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 1.99
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.79
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 1.98
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.82
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 1.98
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.82
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 2.04
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.78
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Punjab Kings",
+                                "price": 1.98
+                            },
+                            {
+                                "name": "Sunrisers Hyderabad",
+                                "price": 1.8
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "308f4d6c2e93dc1d70ca3ab6fc2b9662",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-10T14:00:00Z",
+        "home_team": "Rajasthan Royals",
+        "away_team": "Gujarat Titans",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:17Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.12
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.72
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.11
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.72
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:36:05Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.26
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:36:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.32
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.79
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.72
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.72
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:35:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.12
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.14
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:36:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Gujarat Titans",
+                                "price": 2.21
+                            },
+                            {
+                                "name": "Rajasthan Royals",
+                                "price": 1.65
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,611 @@
+[
+    {
+        "id": "0fc3d1879fe4301a17daaa5eb34b3df9",
+        "sport_key": "soccer_greece_super_league",
+        "sport_title": "Super League - Greece",
+        "commence_time": "2024-04-07T14:00:00Z",
+        "home_team": "PAS Lamia 1964",
+        "away_team": "Olympiakos Piraeus",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-07T04:47:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:47:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Olympiakos Piraeus",
+                                "price": 1.25
+                            },
+                            {
+                                "name": "PAS Lamia 1964",
+                                "price": 9.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-07T04:46:17Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:46:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Olympiakos Piraeus",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "PAS Lamia 1964",
+                                "price": 8.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-07T04:47:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:47:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Olympiakos Piraeus",
+                                "price": 1.25
+                            },
+                            {
+                                "name": "PAS Lamia 1964",
+                                "price": 10.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-07T04:46:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:46:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Olympiakos Piraeus",
+                                "price": 1.2
+                            },
+                            {
+                                "name": "PAS Lamia 1964",
+                                "price": 9.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-07T04:47:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:47:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Olympiakos Piraeus",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "PAS Lamia 1964",
+                                "price": 8.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-07T04:45:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:45:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Olympiakos Piraeus",
+                                "price": 1.32
+                            },
+                            {
+                                "name": "PAS Lamia 1964",
+                                "price": 12.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.7
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-07T04:45:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Olympiakos Piraeus",
+                                "price": 1.33
+                            },
+                            {
+                                "name": "PAS Lamia 1964",
+                                "price": 15.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 6.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-07T04:46:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:46:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Olympiakos Piraeus",
+                                "price": 1.27
+                            },
+                            {
+                                "name": "PAS Lamia 1964",
+                                "price": 9.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dfd3cc5e554c44b99d0366c89497e518",
+        "sport_key": "soccer_greece_super_league",
+        "sport_title": "Super League - Greece",
+        "commence_time": "2024-04-07T16:30:00Z",
+        "home_team": "Aris Thessaloniki",
+        "away_team": "Panathinaikos",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-07T04:47:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:47:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Aris Thessaloniki",
+                                "price": 3.9
+                            },
+                            {
+                                "name": "Panathinaikos",
+                                "price": 1.94
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-07T04:46:17Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:46:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Aris Thessaloniki",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "Panathinaikos",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-07T04:47:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:47:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Aris Thessaloniki",
+                                "price": 3.7
+                            },
+                            {
+                                "name": "Panathinaikos",
+                                "price": 1.92
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-07T04:46:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:46:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Aris Thessaloniki",
+                                "price": 3.8
+                            },
+                            {
+                                "name": "Panathinaikos",
+                                "price": 1.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-07T04:47:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:47:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Aris Thessaloniki",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "Panathinaikos",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-07T04:45:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:45:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Aris Thessaloniki",
+                                "price": 4.2
+                            },
+                            {
+                                "name": "Panathinaikos",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-07T04:45:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Aris Thessaloniki",
+                                "price": 4.6
+                            },
+                            {
+                                "name": "Panathinaikos",
+                                "price": 2.08
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-07T04:46:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:46:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Aris Thessaloniki",
+                                "price": 3.55
+                            },
+                            {
+                                "name": "Panathinaikos",
+                                "price": 1.98
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "695d8497723a1cfe7ee4468176824370",
+        "sport_key": "soccer_greece_super_league",
+        "sport_title": "Super League - Greece",
+        "commence_time": "2024-04-07T17:30:00Z",
+        "home_team": "AEK Athens",
+        "away_team": "PAOK Thessaloniki",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-07T04:47:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:47:15Z",
+                        "outcomes": [
+                            {
+                                "name": "AEK Athens",
+                                "price": 1.75
+                            },
+                            {
+                                "name": "PAOK Thessaloniki",
+                                "price": 4.35
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-07T04:46:17Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:46:17Z",
+                        "outcomes": [
+                            {
+                                "name": "AEK Athens",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "PAOK Thessaloniki",
+                                "price": 4.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-07T04:47:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:47:15Z",
+                        "outcomes": [
+                            {
+                                "name": "AEK Athens",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "PAOK Thessaloniki",
+                                "price": 4.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-07T04:46:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:46:16Z",
+                        "outcomes": [
+                            {
+                                "name": "AEK Athens",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "PAOK Thessaloniki",
+                                "price": 4.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-07T04:47:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:47:15Z",
+                        "outcomes": [
+                            {
+                                "name": "AEK Athens",
+                                "price": 1.7
+                            },
+                            {
+                                "name": "PAOK Thessaloniki",
+                                "price": 4.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-07T04:45:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:45:32Z",
+                        "outcomes": [
+                            {
+                                "name": "AEK Athens",
+                                "price": 1.81
+                            },
+                            {
+                                "name": "PAOK Thessaloniki",
+                                "price": 5.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-07T04:45:32Z",
+                        "outcomes": [
+                            {
+                                "name": "AEK Athens",
+                                "price": 1.87
+                            },
+                            {
+                                "name": "PAOK Thessaloniki",
+                                "price": 5.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-07T04:46:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-07T04:46:16Z",
+                        "outcomes": [
+                            {
+                                "name": "AEK Athens",
+                                "price": 1.74
+                            },
+                            {
+                                "name": "PAOK Thessaloniki",
+                                "price": 4.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.55
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

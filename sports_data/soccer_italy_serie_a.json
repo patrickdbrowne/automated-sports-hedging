@@ -1,0 +1,305 @@
+[
+    {
+        "id": "41240030359037aa3095b2609b2c0bbe",
+        "sport_key": "soccer_italy_serie_a",
+        "sport_title": "Serie A - Italy",
+        "commence_time": "2024-04-08T18:45:00Z",
+        "home_team": "Udinese",
+        "away_team": "Inter Milan",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 7.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 7.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 7.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.39
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 8.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:36:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.4
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 7.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:36:43Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:43Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.36
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 7.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.45
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 8.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.9
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.46
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 9.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 7.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:36:42Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 7.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T13:36:43Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:43Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.4
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 7.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Inter Milan",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Udinese",
+                                "price": 6.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.45
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

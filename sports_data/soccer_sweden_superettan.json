@@ -1,0 +1,358 @@
+[
+    {
+        "id": "e0d107f0255ad5cfffc4be9a30ea664d",
+        "sport_key": "soccer_sweden_superettan",
+        "sport_title": "Superettan - Sweden",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "IK Oddevold",
+        "away_team": "\u00d6rgryte IS",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:37Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.12
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:36:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:00Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:48Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:48Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:36:35Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:35Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.26
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.55
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:36:35Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.34
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T13:35:48Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:48Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.16
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:23Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:47Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:36:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:03Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2f8073a2449d38be6c03977cc8a49012",
+        "sport_key": "soccer_sweden_superettan",
+        "sport_title": "Superettan - Sweden",
+        "commence_time": "2024-04-09T17:00:00Z",
+        "home_team": "Helsingborgs IF",
+        "away_team": "IK Brage",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Helsingborgs IF",
+                                "price": 2.35
+                            },
+                            {
+                                "name": "IK Brage",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:36:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Helsingborgs IF",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "IK Brage",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:36:35Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Helsingborgs IF",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "IK Brage",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:36:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Helsingborgs IF",
+                                "price": 2.54
+                            },
+                            {
+                                "name": "IK Brage",
+                                "price": 3.35
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:35:48Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Helsingborgs IF",
+                                "price": 2.4
+                            },
+                            {
+                                "name": "IK Brage",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "013f199af999e9299f9db86de8cd8bfb",
+        "sport_key": "icehockey_sweden_allsvenskan",
+        "sport_title": "HockeyAllsvenskan",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "Mora IK",
+        "away_team": "Djurg\u00e5rdens IF",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Djurg\u00e5rdens IF",
+                                "price": 2.6
+                            },
+                            {
+                                "name": "Mora IK",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cbd6d05c9f240a948c3abd33c789f655",
+        "sport_key": "icehockey_sweden_allsvenskan",
+        "sport_title": "HockeyAllsvenskan",
+        "commence_time": "2024-04-09T17:00:00Z",
+        "home_team": "Bryn\u00e4s IF",
+        "away_team": "BIK Karlskoga",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:19Z",
+                        "outcomes": [
+                            {
+                                "name": "BIK Karlskoga",
+                                "price": 5.5
+                            },
+                            {
+                                "name": "Bryn\u00e4s IF",
+                                "price": 1.45
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

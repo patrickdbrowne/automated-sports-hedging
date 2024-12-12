@@ -1,0 +1,152 @@
+[
+    {
+        "id": "87fab4c23a22f420e55fcdfe677b98a2",
+        "sport_key": "cricket_international_t20",
+        "sport_title": "International Twenty20",
+        "commence_time": "2024-04-09T20:00:00Z",
+        "home_team": "USA",
+        "away_team": "Canada",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:34:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Canada",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "USA",
+                                "price": 1.56
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Canada",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "USA",
+                                "price": 1.79
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Canada",
+                                "price": 2.28
+                            },
+                            {
+                                "name": "USA",
+                                "price": 1.84
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:34:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:34:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Canada",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "USA",
+                                "price": 1.71
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:27Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Canada",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "USA",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:36:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Canada",
+                                "price": 2.12
+                            },
+                            {
+                                "name": "USA",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:35:27Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Canada",
+                                "price": 2.12
+                            },
+                            {
+                                "name": "USA",
+                                "price": 1.66
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

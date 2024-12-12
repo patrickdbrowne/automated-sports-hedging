@@ -1,0 +1,205 @@
+[
+    {
+        "id": "87c65ceefe5a2a6f933b099f7556407e",
+        "sport_key": "soccer_spain_segunda_division",
+        "sport_title": "La Liga 2 - Spain",
+        "commence_time": "2024-04-08T18:30:00Z",
+        "home_team": "Real Racing Club de Santander",
+        "away_team": "Alcorc\u00f3n",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:36:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Alcorc\u00f3n",
+                                "price": 5.5
+                            },
+                            {
+                                "name": "Real Racing Club de Santander",
+                                "price": 1.57
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:36:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Alcorc\u00f3n",
+                                "price": 5.25
+                            },
+                            {
+                                "name": "Real Racing Club de Santander",
+                                "price": 1.69
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:40Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Alcorc\u00f3n",
+                                "price": 5.1
+                            },
+                            {
+                                "name": "Real Racing Club de Santander",
+                                "price": 1.74
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:36:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Alcorc\u00f3n",
+                                "price": 4.6
+                            },
+                            {
+                                "name": "Real Racing Club de Santander",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:36:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Alcorc\u00f3n",
+                                "price": 4.6
+                            },
+                            {
+                                "name": "Real Racing Club de Santander",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:36:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Alcorc\u00f3n",
+                                "price": 6.2
+                            },
+                            {
+                                "name": "Real Racing Club de Santander",
+                                "price": 1.72
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.75
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:36:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Alcorc\u00f3n",
+                                "price": 6.4
+                            },
+                            {
+                                "name": "Real Racing Club de Santander",
+                                "price": 1.74
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Alcorc\u00f3n",
+                                "price": 4.85
+                            },
+                            {
+                                "name": "Real Racing Club de Santander",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

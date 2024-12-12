@@ -1,0 +1,56 @@
+[
+    {
+        "id": "88a99ae8af3e84c26ae63bf065bf2495",
+        "sport_key": "baseball_npb",
+        "sport_title": "NPB",
+        "commence_time": "2024-04-09T09:00:00Z",
+        "home_team": "Saitama Seibu Lions",
+        "away_team": "Chiba Lotte Marines",
+        "bookmakers": []
+    },
+    {
+        "id": "24ded1cf7616dead19d86c53d2929020",
+        "sport_key": "baseball_npb",
+        "sport_title": "NPB",
+        "commence_time": "2024-04-09T09:00:00Z",
+        "home_team": "Yokohama DeNA BayStars",
+        "away_team": "Chunichi Dragons",
+        "bookmakers": []
+    },
+    {
+        "id": "c1b1492bc1a71d080c292e7f082ce6bc",
+        "sport_key": "baseball_npb",
+        "sport_title": "NPB",
+        "commence_time": "2024-04-09T09:00:00Z",
+        "home_team": "Fukuoka SoftBank Hawks",
+        "away_team": "Hokkaido Nippon-Ham Fighters",
+        "bookmakers": []
+    },
+    {
+        "id": "e4f1b3b996cfdaf176fd50ed71ef4623",
+        "sport_key": "baseball_npb",
+        "sport_title": "NPB",
+        "commence_time": "2024-04-09T09:00:00Z",
+        "home_team": "Hanshin Tigers",
+        "away_team": "Hiroshima Toyo Carp",
+        "bookmakers": []
+    },
+    {
+        "id": "4fe886cb06cfff69422026c8faf0004c",
+        "sport_key": "baseball_npb",
+        "sport_title": "NPB",
+        "commence_time": "2024-04-09T09:00:00Z",
+        "home_team": "Orix Buffaloes",
+        "away_team": "Tohoku Rakuten Golden Eagles",
+        "bookmakers": []
+    },
+    {
+        "id": "514d6c1158833b9a79f0890ea086c6bb",
+        "sport_key": "baseball_npb",
+        "sport_title": "NPB",
+        "commence_time": "2024-04-09T09:00:00Z",
+        "home_team": "Tokyo Yakult Swallows",
+        "away_team": "Yomiuri Giants",
+        "bookmakers": []
+    }
+]

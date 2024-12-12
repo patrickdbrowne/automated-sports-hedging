@@ -1,0 +1,1481 @@
+[
+    {
+        "id": "0c99f43cfdd30b7f8100c75e71b0c058",
+        "sport_key": "cricket_ipl",
+        "sport_title": "IPL",
+        "commence_time": "2024-04-08T14:00:00Z",
+        "home_team": "Chennai Super Kings",
+        "away_team": "Kolkata Knight Riders",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T10:49:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.94
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T10:49:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T10:48:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.98
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T10:48:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.99
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 2.02
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T10:49:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.86
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T10:48:45Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T10:48:43Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:43Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T10:49:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T10:49:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.9
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T10:49:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.85
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T10:49:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Chennai Super Kings",
+                                "price": 1.89
+                            },
+                            {
+                                "name": "Kolkata Knight Riders",
+                                "price": 1.91
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4f862ec28a7065e543409bd48ffd4787",
+        "sport_key": "soccer_denmark_superliga",
+        "sport_title": "Denmark Superliga",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "Brondby IF",
+        "away_team": "Silkeborg IF",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T10:48:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.4
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 7.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.33
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T10:48:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 7.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T10:48:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.43
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.75
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T10:49:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T10:49:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T10:48:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.47
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 8.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.8
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T10:48:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.49
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 8.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T10:48:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T10:49:17Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T10:47:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:47:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "013f199af999e9299f9db86de8cd8bfb",
+        "sport_key": "icehockey_sweden_allsvenskan",
+        "sport_title": "HockeyAllsvenskan",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "Mora IK",
+        "away_team": "Djurg\u00e5rdens IF",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T10:48:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Djurg\u00e5rdens IF",
+                                "price": 2.55
+                            },
+                            {
+                                "name": "Mora IK",
+                                "price": 2.35
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e6f0c7c88637a44759bbc1697f5244c7",
+        "sport_key": "icehockey_sweden_hockey_league",
+        "sport_title": "SHL",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "Skellefte\u00e5 AIK",
+        "away_team": "Fr\u00f6lunda HC",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T10:49:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Fr\u00f6lunda HC",
+                                "price": 3.65
+                            },
+                            {
+                                "name": "Skellefte\u00e5 AIK",
+                                "price": 1.88
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T10:49:21Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Fr\u00f6lunda HC",
+                                "price": 2.62
+                            },
+                            {
+                                "name": "Skellefte\u00e5 AIK",
+                                "price": 1.55
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T10:49:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Fr\u00f6lunda HC",
+                                "price": 2.82
+                            },
+                            {
+                                "name": "Skellefte\u00e5 AIK",
+                                "price": 1.62
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "88dbe5b5051ff110fea79a1f97809eb0",
+        "sport_key": "soccer_sweden_allsvenskan",
+        "sport_title": "Allsvenskan - Sweden",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "IFK V\u00e4rnamo",
+        "away_team": "GAIS",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T10:48:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:29Z",
+                        "outcomes": [
+                            {
+                                "name": "GAIS",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "IFK V\u00e4rnamo",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T10:48:30Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:30Z",
+                        "outcomes": [
+                            {
+                                "name": "GAIS",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "IFK V\u00e4rnamo",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T10:49:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:14Z",
+                        "outcomes": [
+                            {
+                                "name": "GAIS",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "IFK V\u00e4rnamo",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T10:48:07Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:07Z",
+                        "outcomes": [
+                            {
+                                "name": "GAIS",
+                                "price": 3.25
+                            },
+                            {
+                                "name": "IFK V\u00e4rnamo",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.65
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T10:48:07Z",
+                        "outcomes": [
+                            {
+                                "name": "GAIS",
+                                "price": 3.35
+                            },
+                            {
+                                "name": "IFK V\u00e4rnamo",
+                                "price": 2.36
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T10:48:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:25Z",
+                        "outcomes": [
+                            {
+                                "name": "GAIS",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "IFK V\u00e4rnamo",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T10:48:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:44Z",
+                        "outcomes": [
+                            {
+                                "name": "GAIS",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "IFK V\u00e4rnamo",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T10:48:30Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:30Z",
+                        "outcomes": [
+                            {
+                                "name": "GAIS",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "IFK V\u00e4rnamo",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T10:49:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:14Z",
+                        "outcomes": [
+                            {
+                                "name": "GAIS",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "IFK V\u00e4rnamo",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c19e8f28a3cbd2fd744a01dd62b748a4",
+        "sport_key": "soccer_poland_ekstraklasa",
+        "sport_title": "Ekstraklasa - Poland",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "Zag\u0142\u0119bie Lubin",
+        "away_team": "G\u00f3rnik Zabrze",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T10:49:05Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:05Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T10:49:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:25Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T10:49:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:26Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T10:47:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:47:57Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.28
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.45
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T10:47:57Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.7
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.34
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T10:48:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:15Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.12
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T10:49:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:26Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T10:49:27Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:27Z",
+                        "outcomes": [
+                            {
+                                "name": "G\u00f3rnik Zabrze",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Zag\u0142\u0119bie Lubin",
+                                "price": 2.14
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e0d107f0255ad5cfffc4be9a30ea664d",
+        "sport_key": "soccer_sweden_superettan",
+        "sport_title": "Superettan - Sweden",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "IK Oddevold",
+        "away_team": "\u00d6rgryte IS",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T10:47:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:47:54Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.16
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T10:48:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:03Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T10:47:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:47:54Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.1
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T10:48:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:53Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.28
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.25
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T10:48:53Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.34
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "topsport",
+                "title": "TopSport",
+                "last_update": "2024-04-08T10:49:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:41Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.14
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 3.05
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T10:47:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:47:59Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.18
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 2.92
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T10:47:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:47:54Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.2
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T10:47:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:47:54Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Oddevold",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "\u00d6rgryte IS",
+                                "price": 2.9
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "df434efb959020f9a2bfa79d5427206a",
+        "sport_key": "soccer_sweden_allsvenskan",
+        "sport_title": "Allsvenskan - Sweden",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "Kalmar FF",
+        "away_team": "IK Sirius",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T10:48:29Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:29Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Sirius",
+                                "price": 2.6
+                            },
+                            {
+                                "name": "Kalmar FF",
+                                "price": 2.6
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T10:48:30Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:30Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Sirius",
+                                "price": 2.65
+                            },
+                            {
+                                "name": "Kalmar FF",
+                                "price": 2.55
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T10:49:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:14Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Sirius",
+                                "price": 2.62
+                            },
+                            {
+                                "name": "Kalmar FF",
+                                "price": 2.55
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T10:48:07Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:07Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Sirius",
+                                "price": 2.78
+                            },
+                            {
+                                "name": "Kalmar FF",
+                                "price": 2.68
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.55
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T10:48:07Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Sirius",
+                                "price": 2.86
+                            },
+                            {
+                                "name": "Kalmar FF",
+                                "price": 2.76
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T10:48:30Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:30Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Sirius",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Kalmar FF",
+                                "price": 2.45
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T10:49:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:49:14Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Sirius",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Kalmar FF",
+                                "price": 2.45
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T10:48:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:25Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Sirius",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Kalmar FF",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bluebet",
+                "title": "BlueBet",
+                "last_update": "2024-04-08T10:48:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T10:48:44Z",
+                        "outcomes": [
+                            {
+                                "name": "IK Sirius",
+                                "price": 2.55
+                            },
+                            {
+                                "name": "Kalmar FF",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "id": "4f862ec28a7065e543409bd48ffd4787",
+        "sport_key": "soccer_denmark_superliga",
+        "sport_title": "Denmark Superliga",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "Brondby IF",
+        "away_team": "Silkeborg IF",
+        "bookmakers": [
+            {
+                "key": "sportsbet",
+                "title": "SportsBet",
+                "last_update": "2024-04-08T13:36:22Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.4
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 7.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetau",
+                "title": "PointsBet (AU)",
+                "last_update": "2024-04-08T13:36:10Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 7.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:36:10Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.36
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 8.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:36:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.44
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:35:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.47
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 8.4
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.8
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:35:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.48
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 8.6
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "playup",
+                "title": "PlayUp",
+                "last_update": "2024-04-08T13:36:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "tab",
+                "title": "TAB",
+                "last_update": "2024-04-08T13:35:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.5
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betr_au",
+                "title": "Betr",
+                "last_update": "2024-04-08T13:36:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Brondby IF",
+                                "price": 1.42
+                            },
+                            {
+                                "name": "Silkeborg IF",
+                                "price": 6.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4.25
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "id": "e6f0c7c88637a44759bbc1697f5244c7",
+        "sport_key": "icehockey_sweden_hockey_league",
+        "sport_title": "SHL",
+        "commence_time": "2024-04-08T17:00:00Z",
+        "home_team": "Skellefte\u00e5 AIK",
+        "away_team": "Fr\u00f6lunda HC",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Fr\u00f6lunda HC",
+                                "price": 3.65
+                            },
+                            {
+                                "name": "Skellefte\u00e5 AIK",
+                                "price": 1.88
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:36:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Fr\u00f6lunda HC",
+                                "price": 2.58
+                            },
+                            {
+                                "name": "Skellefte\u00e5 AIK",
+                                "price": 1.55
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:36:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Fr\u00f6lunda HC",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Skellefte\u00e5 AIK",
+                                "price": 1.64
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2ad6069024384c94ff7dd9eb987e25a6",
+        "sport_key": "icehockey_sweden_hockey_league",
+        "sport_title": "SHL",
+        "commence_time": "2024-04-09T17:00:00Z",
+        "home_team": "R\u00f6gle BK",
+        "away_team": "V\u00e4xj\u00f6 Lakers",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "R\u00f6gle BK",
+                                "price": 2.28
+                            },
+                            {
+                                "name": "V\u00e4xj\u00f6 Lakers",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_au",
+                "title": "Ladbrokes",
+                "last_update": "2024-04-08T13:35:48Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:48Z",
+                        "outcomes": [
+                            {
+                                "name": "R\u00f6gle BK",
+                                "price": 1.73
+                            },
+                            {
+                                "name": "V\u00e4xj\u00f6 Lakers",
+                                "price": 2.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "neds",
+                "title": "Neds",
+                "last_update": "2024-04-08T13:35:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:35:15Z",
+                        "outcomes": [
+                            {
+                                "name": "R\u00f6gle BK",
+                                "price": 1.73
+                            },
+                            {
+                                "name": "V\u00e4xj\u00f6 Lakers",
+                                "price": 2.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_au",
+                "title": "Betfair",
+                "last_update": "2024-04-08T13:36:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-04-08T13:36:36Z",
+                        "outcomes": [
+                            {
+                                "name": "R\u00f6gle BK",
+                                "price": 1.86
+                            },
+                            {
+                                "name": "V\u00e4xj\u00f6 Lakers",
+                                "price": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2024-04-08T13:36:36Z",
+                        "outcomes": [
+                            {
+                                "name": "R\u00f6gle BK",
+                                "price": 1.99
+                            },
+                            {
+                                "name": "V\u00e4xj\u00f6 Lakers",
+                                "price": 2.18
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
